@@ -32,7 +32,7 @@
   display: inline-block;
   flex-grow: 1;
 }
-.main__task {
+.section__task {
   display: flex;
 }
 .list {
@@ -60,7 +60,7 @@
   color: #3a3A3a;
 }
 /* Heading */
-.main__title {
+.section__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -86,7 +86,7 @@
 }
 
 /* New Task */
-.main__title:first-child{
+.section__title:first-child{
   display: block;
   margin: 0 0 20px;
 }
