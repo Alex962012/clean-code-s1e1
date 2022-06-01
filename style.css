@@ -19,8 +19,8 @@
 
 @media (max-width:768px) {
 
-  .header { 
-     text-align: center;
+.header { 
+  text-align: center;
 }
 
 }
@@ -142,11 +142,11 @@
   display: none;
 }
 
- .list__item_editmode .item__input-task {
+.list__item_editmode .item__input-task {
   display:inline-block;
   width: 224px;
 }
 
- .list__item_editmode .item__label {
+.list__item_editmode .item__label {
   display: none;
 }
